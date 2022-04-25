@@ -1,7 +1,7 @@
 <h1 align="center">I'm NETtoSan! </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,javascript,java,python,bash,cloudflare,docker,express,nodejs,nginx" />
+    <img src="https://skillicons.dev/icons?i=arduino,javascript,java,python,bash,cloudflare,docker,express,nodejs,nginx" /><br>
     <img src="https://skillicons.dev/icons?i=vim,visualstudio,vscode" />
   </a>
 </p>

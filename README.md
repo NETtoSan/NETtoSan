@@ -1,4 +1,6 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</p>
 
 <!---
 NETtoSan/NETtoSan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

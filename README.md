@@ -4,7 +4,7 @@ Net Zamora
 Or you can call me Net/ NETto.
 -----------------
 
-Previously a MakeX Explorer & Challenge contestant. Constantly comes up with new ideas prior. Used to make web app and discord bots with JavaScript.
+Previously a [MakeX Explorer & Challenge](https://www.makex.cc/en) contestant. Constantly comes up with new ideas. Used to make web app and discord bots with JavaScript.
 
 * 🌍  I'm based in Thailand
 * 🎓  Currently enrolled in [Thai Nichi Institute of Technology](https://www.tni.ac.th/home/)
